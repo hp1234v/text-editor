@@ -1,2 +1,2 @@
 # text-editor
-This text editor for javascript and typescript
+This text editor for javascript and typescript applications
